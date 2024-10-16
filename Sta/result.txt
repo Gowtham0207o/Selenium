@@ -1,0 +1,84 @@
+Running Scenario 1: Successful Login
+Scenario 1: Successful Login - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="welcomeMessage"]"}
+  (Session info: chrome=130.0.6723.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA8EE1F5+2972373]
+	(No symbol) [0x00007FF7FA5855F0]
+	(No symbol) [0x00007FF7FA4257FA]
+	(No symbol) [0x00007FF7FA475A3E]
+	(No symbol) [0x00007FF7FA475D2C]
+	(No symbol) [0x00007FF7FA4BEAB7]
+	(No symbol) [0x00007FF7FA49BABF]
+	(No symbol) [0x00007FF7FA4BB8CC]
+	(No symbol) [0x00007FF7FA49B823]
+	(No symbol) [0x00007FF7FA4675E8]
+	(No symbol) [0x00007FF7FA468751]
+	GetHandleVerifier [0x00007FF7FA9147BD+3129501]
+	GetHandleVerifier [0x00007FF7FA964D00+3458528]
+	GetHandleVerifier [0x00007FF7FA95B05D+3418429]
+	GetHandleVerifier [0x00007FF7FA6E687B+844123]
+	(No symbol) [0x00007FF7FA590AFF]
+	(No symbol) [0x00007FF7FA58C6D4]
+	(No symbol) [0x00007FF7FA58C86D]
+	(No symbol) [0x00007FF7FA57BD79]
+	BaseThreadInitThunk [0x00007FFD7DB4257D+29]
+	RtlUserThreadStart [0x00007FFD7E9EAF08+40]
+
+
+Running Scenario 2: Incorrect Credentials
+Scenario 2: Incorrect Credentials - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="errorMessage"]"}
+  (Session info: chrome=130.0.6723.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA8EE1F5+2972373]
+	(No symbol) [0x00007FF7FA5855F0]
+	(No symbol) [0x00007FF7FA4257FA]
+	(No symbol) [0x00007FF7FA475A3E]
+	(No symbol) [0x00007FF7FA475D2C]
+	(No symbol) [0x00007FF7FA4BEAB7]
+	(No symbol) [0x00007FF7FA49BABF]
+	(No symbol) [0x00007FF7FA4BB8CC]
+	(No symbol) [0x00007FF7FA49B823]
+	(No symbol) [0x00007FF7FA4675E8]
+	(No symbol) [0x00007FF7FA468751]
+	GetHandleVerifier [0x00007FF7FA9147BD+3129501]
+	GetHandleVerifier [0x00007FF7FA964D00+3458528]
+	GetHandleVerifier [0x00007FF7FA95B05D+3418429]
+	GetHandleVerifier [0x00007FF7FA6E687B+844123]
+	(No symbol) [0x00007FF7FA590AFF]
+	(No symbol) [0x00007FF7FA58C6D4]
+	(No symbol) [0x00007FF7FA58C86D]
+	(No symbol) [0x00007FF7FA57BD79]
+	BaseThreadInitThunk [0x00007FFD7DB4257D+29]
+	RtlUserThreadStart [0x00007FFD7E9EAF08+40]
+
+
+Running Scenario 3: Empty Credentials
+Scenario 3: Empty Credentials - Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="errorMessage"]"}
+  (Session info: chrome=130.0.6723.59); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF7FA8EE1F5+2972373]
+	(No symbol) [0x00007FF7FA5855F0]
+	(No symbol) [0x00007FF7FA4257FA]
+	(No symbol) [0x00007FF7FA475A3E]
+	(No symbol) [0x00007FF7FA475D2C]
+	(No symbol) [0x00007FF7FA4BEAB7]
+	(No symbol) [0x00007FF7FA49BABF]
+	(No symbol) [0x00007FF7FA4BB8CC]
+	(No symbol) [0x00007FF7FA49B823]
+	(No symbol) [0x00007FF7FA4675E8]
+	(No symbol) [0x00007FF7FA468751]
+	GetHandleVerifier [0x00007FF7FA9147BD+3129501]
+	GetHandleVerifier [0x00007FF7FA964D00+3458528]
+	GetHandleVerifier [0x00007FF7FA95B05D+3418429]
+	GetHandleVerifier [0x00007FF7FA6E687B+844123]
+	(No symbol) [0x00007FF7FA590AFF]
+	(No symbol) [0x00007FF7FA58C6D4]
+	(No symbol) [0x00007FF7FA58C86D]
+	(No symbol) [0x00007FF7FA57BD79]
+	BaseThreadInitThunk [0x00007FFD7DB4257D+29]
+	RtlUserThreadStart [0x00007FFD7E9EAF08+40]
+
+
+Running Scenario 4: Defect - Slow Response
+Scenario 4: Defect - Slow Response - Response Time: 5.39 seconds
+Scenario 4: Slow Response - Login response time is too slow.
